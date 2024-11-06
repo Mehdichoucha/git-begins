@@ -1,0 +1,4 @@
+git clone
+git push
+git push -u origin [branche]
+git push --all
